@@ -193,14 +193,3 @@
 .edu-group p {
   padding-left: 80px;
 }
-.footer I4G {
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  border: 5px solid white;
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
-  cursor: pointer;
-  transition: 0.5s;
-  user-select: none;
-  filter: grayscale(100%);
-}
